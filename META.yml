@@ -1,0 +1,13 @@
+--- #YAML:1.0
+name:                AutoXS-Header
+version:             0.01
+abstract:            Container for the AutoXS header files
+license:             perl
+author:              
+    - Steffen Mueller <smueller@cpan.org>
+generated_by:        ExtUtils::MakeMaker version 6.42
+distribution_type:   module
+requires:     
+meta-spec:
+    url:     http://module-build.sourceforge.net/META-spec-v1.3.html
+    version: 1.3
